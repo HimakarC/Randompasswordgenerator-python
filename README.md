@@ -1,2 +1,1 @@
-# Randompasswordgenerator-python
-Generating Random Password using Python
+# Generating Random Password using Python
